@@ -55,6 +55,3 @@ I’m positioning myself for engineering and technology-facing roles where techn
 
 ## Connect with me
 - LinkedIn: [www.linkedin.com/in/jirat-nimsombun](https://www.linkedin.com/in/jirat-nimsombun)
-- Resume: [TODO: add resume PDF link]
-- Portfolio: [TODO: add portfolio link]
-- Project repositories: [TODO: add featured project repo links]
